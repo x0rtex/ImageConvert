@@ -12,7 +12,7 @@ A Python CLI tool for batch converting image files between formats with compress
 
 ## Supported Formats
 Common formats include:  
-`WEBP`, `JPEG`, `PNG`, `BMP`, `TIFF`, `GIF`, `ICO`, `HEIF`, `PDF` (and [many more](https://pillow.readthedocs.io/en/stable/handbook/image-file-formats.html))
+`WEBP`, `JPEG`, `PNG`, `BMP`, `TIFF`, `GIF`, `ICO`, `HEIF`, `PDF` ([and more](https://pillow.readthedocs.io/en/stable/handbook/image-file-formats.html))
 
 ## Installation
 
