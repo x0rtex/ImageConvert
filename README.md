@@ -4,11 +4,11 @@ A Python CLI tool for batch converting image files between formats with compress
 
 ## Features
 
-- 🔄 Convert images between formats (via Pillow support)
-- 📁 Recursive directory searching
-- 🎚️ Compression/quality settings
-- 🗑️ Post-conversion file management (keep/delete originals/converted files)
-- 📊 Conversion statistics
+- Convert images between formats (via Pillow support)
+- Recursive directory searching
+- Compression/quality settings
+- Post-conversion file management (keep/delete originals/converted files)
+  Conversion statistics
 
 ## Supported Formats
 Common formats include:  
@@ -34,11 +34,11 @@ python main.py
 ```
 
 Follow the interactive prompts:
-1. 📂 Enter directory to search
-2. 📤 Source file extension (e.g., jpg)
-3. 📥 Target file extension (e.g., webp)
-4. 🎚️ Compression/quality level (1-100)
-5. 🗑️ Choose file management option after conversion
+1. Enter directory to search
+2. Source file extension (e.g., jpg)
+3. Target file extension (e.g., webp)
+4. Compression/quality level (1-100)
+5. Choose file management option after conversion
 
 ## Technical Details
 
