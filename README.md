@@ -1,4 +1,4 @@
-# 🖼️ Image Convert
+# Image Convert
 
 A Python CLI tool for batch converting image files between formats with compression support and file management options.
 
